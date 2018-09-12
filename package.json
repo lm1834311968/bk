@@ -13,7 +13,9 @@
     "element-ui": "^2.3.7",
     "less": "^3.0.2",
     "less-loader": "^4.1.0",
+    "npm": "^6.4.1",
     "vue": "^2.5.2",
+    "vue-concise-slider": "^2.4.8",
     "vue-router": "^3.0.1",
     "vuex": "^3.0.1"
   },

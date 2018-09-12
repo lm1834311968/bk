@@ -4,7 +4,7 @@
 			<h3>畅&nbsp;享</h3>
 			<input placeholder="请输入账号" type='text' />
 			<input placeholder="请输入密码" type='text' />
-			<router-link tag='span' to='/homepage'>
+			<router-link tag='span' to='/HomePage'>
 				<input type="button" value="登 录" />
 			</router-link>
 			<ul>
